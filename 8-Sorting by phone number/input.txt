@@ -1,0 +1,10 @@
+81231234567  Ivanov Ivan   Moscow
+89123456789  Petrov Petr  St. Petersburg
+88012345678  Sidorov Sidor  Novosibirsk
+87345678901  Kuznetsov Kuzma  Yekaterinburg
+86456789012  Smirnov SM  Irkutsk
+85567890123  Ivanov Ivan  Vladivostok
+84678901234  Petrov Petr  Rostov-on-Don
+83789012345  Sidorov Sidor  Krasnodar
+82890123456  Kuznetsov Kuzma  Samara
+81901234567  Smirnov SM  Nizhny Novgorod
